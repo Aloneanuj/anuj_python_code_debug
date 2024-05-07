@@ -14,11 +14,8 @@ while True:
 print(avg)
 
 # def average():
-
 #     total = 0
-
 #     count = 0
-
 #     while True:
 
 #         num = int(input("Enter a number = "))
