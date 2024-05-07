@@ -23,5 +23,4 @@ print(avg)
 #         total = total + num
 #         count = count + 1
 #     print(f"Average of all the numbers = {total/count}")
-
 # average()
