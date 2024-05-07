@@ -1,0 +1,11 @@
+# 0 11 101 1001 10001 100001 1000001
+num = int(input("Enter a number= "))
+i = 0
+while i <= num - 1:
+    if i == 0:
+        print(10**i, end=" ")
+
+    else:
+        print(1 + (10) ** i, end=" ")
+
+    i += 1
