@@ -11,6 +11,6 @@ def pattern(n):
             print(j, end=" ")
         print()
 
-
-pattern(5)
+n= int(input("Enter your number : "))
+pattern(n)
 
