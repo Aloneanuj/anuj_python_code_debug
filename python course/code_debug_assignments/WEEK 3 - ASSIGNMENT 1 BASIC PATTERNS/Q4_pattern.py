@@ -11,4 +11,4 @@ def pattern(n):
             print(j,end=" ")
         print()
 
-pattern(5)
+pattern(10)
