@@ -12,4 +12,4 @@ def patter(n):
             print(j, end=" ")
         print()
 
-patter(5)
+patter(10)
